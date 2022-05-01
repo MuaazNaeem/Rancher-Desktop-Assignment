@@ -1,0 +1,17 @@
+{
+  "name": "RancherApp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.21.1",
+    "electron": "^18.2.0",
+    "playwright": "^1.21.1"
+  }
+}
